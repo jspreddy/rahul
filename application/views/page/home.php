@@ -3,8 +3,6 @@
 <!-- Marketing messaging and featurettes
 ================================================== -->
 <!-- Wrap the rest of the page in another container to center all the content. -->
-
-<div class="container marketing">
     <div class="row featurette">
         <div class="col-md-7">
             <h2 class="featurette-heading">Profile. <small class="text-muted">Birth 2011.</small></h2>
@@ -76,10 +74,3 @@
     </div>
 
     <hr class="featurette-divider">
-
-    <!-- FOOTER -->
-    <footer>
-        <p class="pull-right"><a href="">Back to top</a></p>
-    </footer>
-
-</div>

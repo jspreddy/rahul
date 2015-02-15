@@ -1,11 +1,11 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class Page extends MY_Controller {
-    
+
     function __construct(){
         parent::__construct();
     }
-    
+
     public function index()
     {
         $this->home();
@@ -15,7 +15,7 @@ class Page extends MY_Controller {
             "page/home"
         ]);
     }
-    
+
     public function services(){
         $service = $this->uri->segment(3);
         if($service == false){
@@ -28,7 +28,7 @@ class Page extends MY_Controller {
             "page/services/".$service
         ]);
     }
-    
+
     public function products(){
         $this->pageBuilder([
             "page/products"

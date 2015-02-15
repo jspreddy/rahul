@@ -1,5 +1,5 @@
 <?php ?>
-</div>
+</div> <!-- container ends -->
 <div class="footer">
     <div class="container">
         <ul class="contactDetails">
