@@ -1,0 +1,37 @@
+/* 
+    Created on : Feb 9, 2015, 10:34:04 PM
+    Author     : Sai
+*/
+html{
+    background-color:#071f37;
+    padding:0px;
+    margin:0px;
+}
+.header{
+    padding:0px;
+    margin:0px;
+    background-color:#071f37;
+    height:200px;
+}
+.headerLogo{
+    height:150px;
+    width:99px;
+    border:none;
+    margin:25px 0px;
+    padding:0px;
+}
+.footer{
+    padding: 0px;
+    margin: 50px 0px 0px 0px;
+    background-color: #071f37;
+    color: #ffffff;
+}
+.contactDetails{
+    float:left;
+    margin:12px 50px 0px 0px;
+    padding:0px;
+    list-style: none inside none;
+}
+.contactDetails > b{
+    color:#dc9942;
+}

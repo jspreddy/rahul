@@ -12,9 +12,10 @@
 
     <link href="<?php echo base_url('/ui/css/bootstrap.css'); ?>" rel="stylesheet" />
     <link href="<?php echo base_url('/ui/css/bootstrap-theme.css'); ?>" rel="stylesheet" />
+    <link href="<?php echo base_url('/ui/css/style.css'); ?>" rel="stylesheet" />
 
     <script src="<?php echo base_url('/ui/js/jquery-1.11.2.min.js'); ?>"></script>
-    <script src="<?php echo base_url('/ui/js/jquery-1.11.2.min.map.js'); ?>"></script>
+    <script src="<?php echo base_url('/ui/js/jquery-1.11.2.min.map'); ?>"></script>
     <script src="<?php echo base_url('/ui/js/bootstrap.js'); ?>"></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -25,3 +26,8 @@
         
 </head>
 <body>
+    <div class="header">
+        <div class="container">
+            <img class="headerLogo" src="<?php echo base_url("/ui/img/logo_small.jpg"); ?>" />
+        </div>
+    </div>
