@@ -28,7 +28,7 @@
 <body>
     <div class="header">
         <div class="container">
-            <img class="headerLogo" src="<?php echo base_url("/ui/img/logo_small.jpg"); ?>" />
+            <img class="headerBG" src="<?php echo base_url("/ui/img/titleBG.png"); ?>" />
         </div>
     </div>
     <?php $this->load->view('component/nav.php'); ?>

@@ -7,19 +7,14 @@
         <div class="col-md-7">
             <h2 class="featurette-heading">Profile. <small class="text-muted">Birth 2011.</small></h2>
             <p>
-                ITSAJ Tech-Sol came into existence in the year 2011 with an objective to augment businesses across the globe with
-                innovative IT solutions. To nurse and achieve this goal through a span of almost two decades, ITSAJ has developed a wide spectrum
-                of offerings that ranges from IT consulting and engineering to software development and customization.
-
-                ITSAJ is headquartered in Illinois and Remote Development Facility (RDF) in Hyderabad & Vizag India. With a vision to solve technical and entrepreneurial
-                challenges, ITSAJ tries to understand the specialized requirements of its clients and serve them to the best of its efforts. With an expert and immensely
-                qualifies team of professionals and an unquenchable thirst to be at par with modern day technology, ITSAJ strives to strike a perfect blend of creativity
-                and capacity. The success formula of ITSAJ is its people who come from a widely diverse background and bring in their varied skillsets and ideas. This is
-                precisely what helps us to always stand out among the crowd.
-
-                Our quality is our guarantee. We believe that every business association can blossom into a long term relationship. Hence, we are committed to delivering
-                innovative and optimum solutions, both at the time of delivery and during follow-ups. We constantly keep improving and maintaining an effective Quality
-                Management System which makes us a favorite among our long list of satisfied clientele.
+                ITSAJ Tech-Sol came into existence in the year 2011 with an objective to augment businesses across the globe with innovative IT solutions.
+                To nurse and achieve this goal ITSAJ has developed a wide spectrum of offerings that ranges from IT consulting and engineering to software
+                development and customization. ITSAJ is headquartered in Illinois and Remote Development Facility (RDF) in Hyderabad & Vizag India.
+                With a vision to solve technical and entrepreneurial challenges, ITSAJ tries to understand the specialized requirements of its clients and
+                serve them to the best of its efforts. With an expert and immensely qualifies team of professionals and an unquenchable thirst to be at par
+                with modern day technology, ITSAJ strives to strike a perfect blend of creativity and capacity. We believe that every business association
+                can blossom into a long term relationship. Hence, we are committed to delivering innovative and optimum solutions, both at the time of
+                delivery and during follow-ups. 
             </p>
         </div>
         <div class="col-md-5">

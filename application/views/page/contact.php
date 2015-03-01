@@ -1,8 +1,4 @@
 <?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+$mailId = "contact@itsaj.info";
+?>
+<a href="mailto:<?php echo $mailId; ?>" class="btn btn-primary"><?php echo $mailId; ?></a>
