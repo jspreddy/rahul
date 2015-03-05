@@ -1,4 +1,7 @@
 <?php
-$mailId = "contact@itsaj.info";
+$mailId = "srihari@itsajtechsol.com";
 ?>
-<a href="mailto:<?php echo $mailId; ?>" class="btn btn-primary"><?php echo $mailId; ?></a>
+<p>
+    contact us at: <a href="mailto:<?php echo $mailId; ?>" class="btn btn-link"><?php echo $mailId; ?></a>
+</p>
+
